@@ -25,9 +25,7 @@ The basic functionality of the template extension is to add a Ribbon button and 
 	
 The recommended approach is to use the extension template found in the Visual Studio Extension Gallery. You can open the Visual Studio Extension Manager available under the Tools Menu, select "Extension Manager", then Online Gallery, click on the Templates tab and search for WebMatrix. Once it is displayed in the list, click download.
 
-![][5]
 
-![][6]
 	
 Alternatively, you can use the WebMatrixExtension.zip file provided in the kit by following these steps:
 
