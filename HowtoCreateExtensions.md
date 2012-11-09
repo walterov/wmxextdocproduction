@@ -1,4 +1,4 @@
-# How to Create Extensions!
+# How to Create Extensions
 
 This document provides the basic steps to get you started writing Extensions for WebMatrix. The simplest path to take is to use the [WebMatrix Extension Visual Studio Project Template]. The template is called **WebMatrix Extension Template** and you can find it in the Templates section of the Extension Manager in Visual Studio or as part of the [WebMatrix Extension Kit]. The template allows you to create Visual Studio projects that contain a fully functional Extension. Also, you can learn about the [WebMatrix Extensibility API] and explore the sample extension provided in the kit. Once you finish your extension and publish it in this site, it will be available to users through the WebMatrix's Extension Gallery:
 	
